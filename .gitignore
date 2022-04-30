@@ -16,3 +16,6 @@
 
 # go workspace file
 go.work
+
+# jetbrains ide
+.idea/
